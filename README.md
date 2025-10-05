@@ -10,7 +10,7 @@
 
 **pip install requests**
 
-**git clone https://github.com/kolllmar2/cpm.git**
+**git clone https://github.com/Arnel373/kingrank.git**
 
 **cd cpm**
 
@@ -31,12 +31,13 @@
 
 **pip install requests**
 
-**git clone https://github.com/kolllmar2/cpm.git**
+**git clone https://github.com/Arnel373/kingrank.git**
 
 **cd cpm**
 
 **python3 cpm1.py for cpm1**
 
 **python3 cpm2.py for cpm2**
+
 
 
